@@ -1,0 +1,9 @@
+cat:
+  label: Cat
+  permalink: /cat
+  description: Authored by Cat.
+
+t&s:
+  label: Trust and Safety
+  permalink: /t&s
+  description: Trust and Safety related posts.
