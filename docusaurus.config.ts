@@ -11,7 +11,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Muninn Hall',
   tagline: 'Meow',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
