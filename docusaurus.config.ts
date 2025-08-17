@@ -11,7 +11,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Muninn Hall',
   tagline: 'Meow',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -83,7 +83,8 @@ const config: Config = {
       title: 'Muninn Hall',
       logo: {
         alt: 'Muninn Hall Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
+        srcDark:'img/logo_dark.png'
       },
       items: [
         {
@@ -151,5 +152,8 @@ const config: Config = {
     },
   } satisfies Preset.ThemeConfig,
 };
+
+
+
 
 export default config;
