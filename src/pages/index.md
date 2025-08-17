@@ -2,6 +2,8 @@
 title: Welcome to Muninn Hall
 ---
 
+# Welcome to Muninn Hall
+
 Muninn Hall is a community for Matrix homeserver staff. Be that your homeserver administrators or custodial / janitorial moderators.
 
 We exist to provide a space for Matrix homeserver staff to gather and pool their knowledge but also to collaborate on matters. Be that Trust and Safety or systems administration or more.
