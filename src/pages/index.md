@@ -48,17 +48,13 @@ SPDX-SnippetCopyrightText: citizencodeofconduct.org 2018
 
 the following behaviours are considered harassment and are unacceptable within our community:
 
-* violence, threats of violence or violent language directed against
-* another person.
-* sexist, racist, homophobic, transphobic, ableist or otherwise
-* discriminatory jokes and language.
-* posting or displaying sexually explicit or violent material.
-* posting or threatening to post other people's personally identifying
-* information (“doxing”).
-* personal insults, particularly those related to gender, sexual
-* orientation, race, religion, or disability.
-* unwelcome sexual attention. this includes sexualized comments or jokes.
-* deliberate intimidation, stalking or following.
+* violence, threats of violence or violent language directed against another person
+* sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language
+* posting or displaying sexually explicit or violent material
+* posting or threatening to post other people's personally identifying information (“doxing”)
+* personal insults, particularly those related to gender, sexual orientation, race, religion, or disability
+* unwelcome sexual attention. this includes sexualized comments or jokes
+* deliberate intimidation, stalking or following
 
 <!-- SPDX-SnippetEnd -->
 
