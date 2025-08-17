@@ -10,9 +10,10 @@ Our website exists to provide a space for shared documentation and also as an ad
 
 ## How to join?
 
-The process for joining Muninn Hall starts with a senior member of the homeserver staff passing vetting in https://matrix.to/#/#muninn-hall-screening:feline.support and that will open the door for the rest of the staff.
+The process for joining Muninn Hall starts with a senior member of the homeserver staff passing the screening in [#muninn-hall-screening:feline.support](https://matrix.to/#/muninn-hall-screening:feline.support).  
+After that is done, the rest of the homeserver staff can be invited to the space.
 
-The most common way this is done is that the homeserver administrative team or moderation team is listed in the support record. They pass screening and then pull in the rest of their team as part of their staff.
+The easiest way to pass, is for the staff member to be listed in the [MSC1929 well-known/matrix/support](https://spec.matrix.org/v1.12/client-server-api/#getwell-knownmatrixsupport) record.
 
 ### Who qualifies?
 
