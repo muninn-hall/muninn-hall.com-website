@@ -83,7 +83,8 @@ const config: Config = {
       title: 'Muninn Hall',
       logo: {
         alt: 'Muninn Hall Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
+        srcDark:'img/logo_dark.png'
       },
       items: [
         {
