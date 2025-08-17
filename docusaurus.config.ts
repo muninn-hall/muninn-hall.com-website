@@ -89,7 +89,7 @@ const config: Config = {
       items: [
         {
           type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
+          sidebarId: 'documentationSidebar',
           position: 'left',
           label: 'Documentation',
         },
@@ -108,41 +108,37 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Documentation',
               to: '/docs/intro',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Socials',
           items: [
+//            {
+//              label: 'Fedi',
+//              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+//            },
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Matrix',
+              href: 'https://matrix.to/#/muninn-hall-screening:feline.support',
             },
           ],
         },
-//        {
-//          title: 'More',
-//          items: [
+        {
+          title: 'More',
+          items: [
 //            {
 //              label: 'Blog',
 //              to: '/blog',
 //            },
-//            {
-//              label: 'GitHub',
-//              href: 'https://github.com/muninn-hall/muninn-hall.com-website/',
-//            },
-//          ],
-//        },
+            {
+              label: 'GitHub',
+             href: 'https://github.com/muninn-hall/muninn-hall.com-website/',
+            },
+          ],
+        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Muninn Hall`,
     },
