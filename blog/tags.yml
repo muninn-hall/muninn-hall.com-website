@@ -7,3 +7,8 @@ t&s:
   label: Trust and Safety
   permalink: /t&s
   description: Trust and Safety related posts.
+
+hall:
+  label: Muninn hall
+  permalink: /hall
+  description: Meta Topic for Muninn Hall
