@@ -22,7 +22,7 @@ Janitorial moderation for homeservers is of utmost importance for your homeserve
 
 But homeservers also need to deal with this as well, they are the source of the spam that the mentioned lists stop. Due to developments like suspend on policy in Draupnir you can outsource Janitorial moderation to Policy lists in part.
 
-Still, if you run a homeserver, especially a public one, you should have a staff of Janitorial moderators who take out the trash.
+Still, you should if you run a public homeserver especially, have a staff of Janitorial moderators who take out the trash.
 
 #### What to look for in Janitorial Staff?
 
