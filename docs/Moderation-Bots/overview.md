@@ -19,12 +19,17 @@ When deploying bots like Draupnir, you can easily grant the above mentioned func
 ## Bots for my users
 
 Apart from that, offering moderationbots as a service to your users can greatly improve the safety of everyone on Matrix.
-Currently the most common way in which you as a server admin can provide a moderation bot to your users is:
+Currently the most common ways in which you as a server admin can provide a moderation bot to your users is:
 * **single bot for entire server**
     * this requires the homeserver staff to get involved and approve the addition of new rooms to the set of protected rooms for the bot
     * in this setup, the "main" bot can also be used to block invites based on policy lists for all users on the server
     * pro: no additional setup/maintenance 
     * con: this offers no option for the user to chose the applied policy lists or other features themselves  
+* **spinning up bots on request**
+    * in this scenario, you spin up bots on a per request basis
+    * Draupnir, when setup as an appservice allows for self-service like deployment
+    * pro: communities have full access to the bots capabilities individually
+    * con: possibly higher initial setup work and, depending on the deployment method, higher ongoing effort
   
 ## Bots we recommend
 
@@ -32,10 +37,10 @@ Currently the most common way in which you as a server admin can provide a moder
 Installation methods:
 - Manual install
 - Docker
-- MDAD
-- NIX
-- K8S
-- Opensuse packaging
+- [matrix-docker-ansible-deploy](https://github.com/spantaleev/matrix-docker-ansible-deploy)
+- Nix
+- K8s
+- openSUSE packaging
 ### [Meowlnir](https://github.com/maunium/meowlnir)
 Installation methods:
 - Manual install
