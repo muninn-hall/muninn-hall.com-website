@@ -94,6 +94,7 @@ const config: Config = {
           label: 'Documentation',
         },
 //        {to: '/blog', label: 'Blog', position: 'left'},
+        {to: '/partners', label: 'Partners', position: 'left'},
         {
           href: 'https://github.com/muninn-hall/muninn-hall.com-website/',
           label: 'GitHub',
@@ -133,6 +134,10 @@ const config: Config = {
 //              label: 'Blog',
 //              to: '/blog',
 //            },
+            {
+              label: 'Partners',
+              to: '/partners',
+            },
             {
               label: 'GitHub',
              href: 'https://github.com/muninn-hall/muninn-hall.com-website/',
