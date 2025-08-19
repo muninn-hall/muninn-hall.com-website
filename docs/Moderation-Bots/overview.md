@@ -5,11 +5,11 @@ sidebar_label: Overview
 ---
 Moderation bots on Matrix are most commonly used for protecting rooms.  
 Their core functionality is to synchronize server and user bans via policy rooms across the whole community they are deployed to.  
-However, as time goes on, the demmands and necessities have grown and so have the capabilities of bots. Today, some bots offer functionality that goes well beyond the basics an can make your own, as well as the life of your staff a lot easier.
+However, as time goes on, the demmands and necessities have grown and so have the capabilities of bots. Today, some bots offer functionality that goes well beyond the basics and can make your own, as well as the life of your staff a lot easier.
 
 ## Bots for me and my staff
 
-Moderationbots can be a great complementary T&S tool, not only for room level duties, but also for tasks that usually require admin access to the Matrix server, such as:
+Moderation bots can be a great complementary T&S tool, not only for room level duties, but also for tasks that usually require admin access to the Matrix server, such as:
 * suspending/deactivating user accounts
 * shutting down rooms
 * receiving and processing reports
@@ -18,7 +18,7 @@ When deploying bots like Draupnir, you can easily grant the above mentioned func
 
 ## Bots for my users
 
-Apart from that, offering moderationbots as a service to your users can greatly improve the safety of everyone on Matrix.
+Apart from that, offering moderation bots as a service to your users can greatly improve the safety of everyone on Matrix.
 Currently the most common ways in which you as a server admin can provide a moderation bot to your users is:
 * **single bot for entire server**
     * this requires the homeserver staff to get involved and approve the addition of new rooms to the set of protected rooms for the bot
